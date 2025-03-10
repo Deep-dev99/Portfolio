@@ -44,11 +44,11 @@ body {
 .h-35 {
   height: 35%;
 }
-/* .bg-outshine{
-    background-image: url(assests/plant.jpg);
-    background-size: 100% 100%;
+.bg-outshine{
+    background-image: url(assests/room.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
-  }  */
+  } 
 .designer1 {
   right: 10%;
   top: 10%;
